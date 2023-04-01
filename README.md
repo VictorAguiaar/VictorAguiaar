@@ -5,7 +5,6 @@
 • Estou cursando Análise e desenvolvimento de sistemas - 4° Período.
 
 • Estudando Front-End
-
 • Amo fotografia
 
 ##
