@@ -1,12 +1,23 @@
 ### Olá! Sou Victor aguiar, seja bem vindo ao meu Github!
 
-Estou cursando Analise e desenvolvimento de sistema, estou busca da transição de carreira e me descobri na área de desenvolvimento web, aqui está um pouco do meu conhecimento e  o que estou aprendendo.
+<br>
+🎓 - Estou cursando Análise e desenvolvimento de sistemas
+
+📚 - Estudando Front-End
+
+📷 - Hobby é Fotografia 
+##
+### Status Github
 
 <div>
   <a href="#">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorAguiaar&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAguiaar&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
+
+##
+### Tecnologia que estou estudando
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -19,6 +30,7 @@ Estou cursando Analise e desenvolvimento de sistema, estou busca da transição 
   
 ##
 
+### Contatos
 <div>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-aguiar-da-concei%C3%A7%C3%A3o-14397822b/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:joaovictoraguiar28@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
