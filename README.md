@@ -2,7 +2,7 @@
 ### Sou Victor aguiar, seja bem vindo ao meu Github!
 
 <br>
-• Estou cursando Análise e desenvolvimento de sistemas - 4° Período.
+• Estou cursando Análise e desenvolvimento de sistemas - 5° Período.
 
 • Estudando Front-End
 
