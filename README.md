@@ -4,6 +4,7 @@
 <br>
 • Sou formado em Análise e desenvolvimento de sistemas.
 
+
 • Sou Analista de Qualidade de Software.
 
 • Estudando Front-End
