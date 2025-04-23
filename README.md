@@ -2,11 +2,13 @@
 ### Sou Victor aguiar, seja bem vindo ao meu Github!
 
 <br>
-• Estou cursando Análise e desenvolvimento de sistemas - 5° Período.
+• Sou formado em Análise e desenvolvimento de sistemas.
+
+• Sou Analista de Qualidade de Software.
 
 • Estudando Front-End
 
-• Amo fotografia
+• Apaixonado pela fotografia
 
 ##
 ### Status Github
